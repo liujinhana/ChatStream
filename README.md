@@ -1,3 +1,4 @@
+基于InternLM实现智能直播互动机器人
 项目名称
 ChatStream
 
